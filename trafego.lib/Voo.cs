@@ -1,3 +1,4 @@
+namespace consoleapp.lib;
 public class Voo
 {
     public string Name { get; set; }

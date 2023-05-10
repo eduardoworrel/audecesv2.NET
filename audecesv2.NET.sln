@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleapp", "consoleapp\consoleapp.csproj", "{BCB88FD1-9057-4466-BE68-2CE5F3596121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trafego.lib", "trafego.lib\trafego.lib.csproj", "{B8A250EE-923D-4BE7-98AD-4601CA677D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB88FD1-9057-4466-BE68-2CE5F3596121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB88FD1-9057-4466-BE68-2CE5F3596121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB88FD1-9057-4466-BE68-2CE5F3596121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB88FD1-9057-4466-BE68-2CE5F3596121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4273D4-4114-4209-BDD0-2CCFE4C55336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4273D4-4114-4209-BDD0-2CCFE4C55336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4273D4-4114-4209-BDD0-2CCFE4C55336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4273D4-4114-4209-BDD0-2CCFE4C55336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A250EE-923D-4BE7-98AD-4601CA677D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A250EE-923D-4BE7-98AD-4601CA677D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A250EE-923D-4BE7-98AD-4601CA677D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A250EE-923D-4BE7-98AD-4601CA677D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
