@@ -1,0 +1,12 @@
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/bin/Debug/net7.0/sorteio.lib.deps.json
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/bin/Debug/net7.0/sorteio.lib.dll
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/bin/Debug/net7.0/sorteio.lib.pdb
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/obj/Debug/net7.0/sorteio.lib.csproj.AssemblyReference.cache
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/obj/Debug/net7.0/sorteio.lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/obj/Debug/net7.0/sorteio.lib.AssemblyInfoInputs.cache
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/obj/Debug/net7.0/sorteio.lib.AssemblyInfo.cs
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/obj/Debug/net7.0/sorteio.lib.csproj.CoreCompileInputs.cache
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/obj/Debug/net7.0/sorteio.lib.dll
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/obj/Debug/net7.0/refint/sorteio.lib.dll
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/obj/Debug/net7.0/sorteio.lib.pdb
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/Loteria/sorteio.lib/obj/Debug/net7.0/ref/sorteio.lib.dll

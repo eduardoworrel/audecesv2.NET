@@ -1,0 +1,12 @@
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/bin/Debug/net7.0/trafego.lib.deps.json
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/bin/Debug/net7.0/trafego.lib.dll
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/bin/Debug/net7.0/trafego.lib.pdb
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/obj/Debug/net7.0/trafego.lib.csproj.AssemblyReference.cache
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/obj/Debug/net7.0/trafego.lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/obj/Debug/net7.0/trafego.lib.AssemblyInfoInputs.cache
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/obj/Debug/net7.0/trafego.lib.AssemblyInfo.cs
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/obj/Debug/net7.0/trafego.lib.csproj.CoreCompileInputs.cache
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/obj/Debug/net7.0/trafego.lib.dll
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/obj/Debug/net7.0/refint/trafego.lib.dll
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/obj/Debug/net7.0/trafego.lib.pdb
+/Users/eduardoworrel/Documents/repos/audecesv2.NET/trafego.lib/obj/Debug/net7.0/ref/trafego.lib.dll
